@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dallag0 😁
+## Bem-vindo(a) ao perfil do Dallago 😁
 
  <div>
   <a href="https://github.com/Dallag0">
