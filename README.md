@@ -10,13 +10,11 @@
 
  # quem sou eu?
  
- <div>
-  <p>
-   Me chamo Gustavo Dallago Ferreira e estou me esforçando para entrar na área de programação.
-  </p>
-  ## Linguagens que eu tenho conhecimento (mesmo que breve)
+  Me chamo Gustavo Dallago Ferreira e estou me esforçando para entrar na área de programação.
+ 
+ ## Linguagens que eu tenho conhecimento (mesmo que breve)
   - HTML
   - CSS
   - JAVASCRIPT
   - NODE.JS
- </div>
+ 
